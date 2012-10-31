@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-repo
-====
+#vi setting for ,vimrc
+#modfied by alex70266
 
-My repo
-=======
-vim_setting
-===========
 
-backup vim setting
->>>>>>> c7c7c7f2875ad386bfa9699322bf3d22551aea31
+#2012/10/31
+
