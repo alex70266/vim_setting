@@ -16,7 +16,7 @@ set ruler
 "-------------------------------------------------------------------------------------------"
 set autoread
 "-------------------------------------------------------------------------------------------"
-"syntax on  		  " syntax highlight
+syntax on  	          " syntax highlight
 set hlsearch 		  " search highlighting
 set cursorline        " highlight current line
 "set cursorcolumn     " highlight current column
